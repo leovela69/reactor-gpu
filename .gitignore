@@ -1,0 +1,13 @@
+.env
+*.env.local
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+data/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+.modal/
